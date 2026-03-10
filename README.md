@@ -106,12 +106,23 @@
 
 ---
 
-## >_ LIVE_METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="abhnish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="abhnish's Top Languages" />
-</p>
+<h3 align="center">>_ LIVE_METRICS</h3>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=abhnish&layout=compact&theme=tokyonight&hide_border=true" 
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
