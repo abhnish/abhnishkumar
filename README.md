@@ -106,6 +106,23 @@
 
 ---
 
+## >_ LIVE_METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="abhnish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="abhnish's Top Languages" />
+</p>
+
+---
+
+## >_ NETWORK_ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnish&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" alt="Commit Traffic Monitor" />
+</p>
+
+---
+
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Open Source Warfare
 
 ```bash
