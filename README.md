@@ -1,235 +1,104 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=450&height=70&lines=%3E%24+whoami;Abhnish+Kumar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Fullstack+Dev;%3E%24+status%3D%F0%9F%9A%80+Hacking+the+Future" alt="Hacker Typing SVG" />
-</div>
+# Hi 👋, I'm Abhnish Kumar
 
-<div align="center">
-  <a href="https://linkedin.com/in/abhnish" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=00FF41" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/abhnish" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&color=00FF41" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/abhnish" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00FF41" alt="GitHub"/>
-  </a>
-  <a href="mailto:abhnish@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=00FF41" alt="Email"/>
-  </a>
-  <a href="https://abhnish.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%233B82F6.svg?&style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=00FF41" alt="Portfolio"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20macOS-black?style=flat-square&logo=linux&logoColor=white&color=00FF41" alt="OS"/>
-  <img src="https://img.shields.io/badge/Editor-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=white&color=00FF41" alt="Editor"/>
-  <img src="https://img.shields.io/badge/License-MIT-black?style=flat-square&logo=opensource&logoColor=white&color=00FF41" alt="License"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=Full+Stack+Developer+%7C+Open+Source+Contributor+%7C+AI+Projects+Builder" alt="typing" />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"> System Information
+>_ SYS.INFO
+>_ About Me
 
-```bash
-┌───[ abhnish@cyberspace ]─[ ~ ]
-└──╼ $ cat /proc/about_me
-{
-  "identity": {
-    "name": "Abhnish Kumar",
-    "alias": "cyber_ninja",
-    "role": "Full Stack Developer | AI Systems Builder | Open Source Contributor",
-    "clearance_level": "3rd Year BTech Student",
-    "neural_interface": "Active"
-  },
-  "core_modules": {
-    "passion": "Building innovative AI systems and SaaS products",
-    "specialization": ["Web Development", "Artificial Intelligence", "Open Source"],
-    "current_mission": "🚀 Hacking the future, one commit at a time",
-    "status": "Connected to the matrix"
-  },
-  "system_specs": {
-    "brain": "Neural Network Optimized",
-    "caffeine_level": "High",
-    "bug_squashing_ability": "Expert",
-    "coffee_intake": "5+ cups/day"
-  }
-}
-```
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=terminal&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Mission-Hack_The_Future-blue?style=for-the-badge&logo=matrix&logoColor=white" alt="Mission"/>
-  <img src="https://img.shields.io/badge/Level-Expert-purple?style=for-the-badge&logo=level&logoColor=white" alt="Level"/>
-</div>
+**Hello —** I'm a 3rd-year BTech student building full-stack AI products, contributing to open-source, and shipping hackathon-ready solutions.  
+Currently focused on: **AI Interview Coach**, **Receipt Reconciliation SaaS**, and developer tooling for OSS collaboration.
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Arsenal & Tech Stack
+## >_ TECH.STACK
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Weaponry-Loadout_Ready-black?style=for-the-badge&logo=weapon&logoColor=white&color=00FF41" alt="Weaponry"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,git,github,vscode,docker,postgres" alt="tech icons" />
+</p>
 
-### 🎯 Frontend Matrix
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,vue,svelte,angular" alt="Frontend Skills"/>
-</div>
+---
 
-### ⚙️ Backend Systems
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,express,fastapi,spring,django,flask,rust,go" alt="Backend Skills"/>
-</div>
+## >_ LIVE_METRICS
 
-### 🗄️ Data Storage & Cloud Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,gcp,azure,docker,kubernetes,terraform" alt="Database & Cloud Skills"/>
-</div>
+<p align="center">
+  <!-- left: GitHub stats -->
+  <img alt="Abhnish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&theme=tokyonight&hide_border=true" />
 
-### 🛠️ Hacking Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,figma,webpack,babel,eslint" alt="Tools Skills"/>
-</div>
-
-### 🤖 AI & Machine Learning Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,pandas,numpy,jupyter,anaconda" alt="AI Skills"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=black&color=00FF41" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=black&color=00FF41" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Anthropic-CC6670?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=black&color=00FF41" alt="Anthropic"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Skill_Level-Expert-black?style=flat-square&logo=expert&logoColor=white&color=00FF41" alt="Skill Level"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-black?style=flat-square&logo=experience&logoColor=white&color=00FF41" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Projects-50%2B_Completed-black?style=flat-square&logo=projects&logoColor=white&color=00FF41" alt="Projects"/>
-</div>
+  <!-- right: Top languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## >_ NETWORK_ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnish&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" alt="Commit Traffic Monitor" />
+  <!-- Commit traffic monitor image - place your generated chart here under assets/ -->
+  <img src="assets/commit-traffic.png" alt="Commit Traffic Monitor" width="900" style="max-width:100%; border-radius:6px; border:1px solid rgba(255,255,255,0.04);" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Open Source Warfare
+## 🐍 Contribution Snake
 
-```bash
-┌───[ abhnish@cyberspace ]─[ ~/open_source ]
-└──╼ $ git log --author="cyber_ninja" --oneline --graph | head -15
-* 1337h4x ✨ Contributed to 50+ open source projects
-* d34db33f 🐛 Fixed 100+ bugs across various repositories  
-* c0d3f00d 📝 Authored 200+ documentation improvements
-* b4dc0d3 🚀 Added 50+ new features to popular projects
-* f4c3b00 🔥 Optimized performance critical code paths
-* d3c0d3 🎯 Resolved 75+ security vulnerabilities
-* c0ff33 🌟 Mentored 30+ junior developers
-* b33fd33 🛠️ Built reusable components for community
-* c0d3r 📚 Created comprehensive learning resources
-* h4ck3r 🎪 Participated in 10+ hackathons and CTFs
-```
+![snake](https://raw.githubusercontent.com/abhnish/abhnishkumar/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Contributions-50%2B_Projects-black?style=flat-square&logo=opensource&logoColor=white&color=00FF41" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/Bugs_Fixed-100%2B-black?style=flat-square&logo=bug&logoColor=white&color=00FF41" alt="Bugs Fixed"/>
-  <img src="https://img.shields.io/badge/PRs_Merged-200%2B-black?style=flat-square&logo=merge&logoColor=white&color=00FF41" alt="PRs Merged"/>
-</div>
+> The snake is generated by a GitHub Action (see `.github/workflows/snake.yml`). It updates daily.
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3eXho1sqNB2QGn/giphy.gif" width="30px"> Establish Connection
+## 🚀 Featured Projects
 
-```bash
-┌───[ abhnish@cyberspace ]─[ ~/communication ]
-└──╼ $ echo "Let's hack the future together!"
-🚀 Connection established. Awaiting transmission...
-```
+### AI Interview Coach
+**Stack:** Next.js · Node.js · Gemini/OpenAI  
+Interactive mock interviewer that gives feedback & follow-ups and scores answers.  
+**Repo:** https://github.com/abhnish/ai-interview-coach • **Demo:** https://ai-interview.example
 
-<div align="center">
-  <p>🤝 Open to collaboration on revolutionary projects</p>
-  <p>📧 Available for freelance opportunities and consulting</p>
-  <p>🌟 Always excited to connect with fellow developers</p>
-</div>
+### Public Service CRM
+**Stack:** React · Node.js · Supabase  
+Civic-issue reporting platform used in hackathons — automation for ticketing and officer workflows.  
+**Repo:** https://github.com/abhnish/public-service-crm • **Demo:** https://crm.example
 
-<div align="center">
-  <a href="https://linkedin.com/in/abhnish" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white&color=00FF41" alt="LinkedIn Connect"/>
-  </a>
-  <a href="https://twitter.com/abhnish" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter&logoColor=white&color=00FF41" alt="Twitter Follow"/>
-  </a>
-  <a href="mailto:abhnish@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-black?style=for-the-badge&logo=gmail&logoColor=white&color=00FF41" alt="Email Say Hi"/>
-  </a>
-  <a href="https://discord.gg/abhnish" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join_Community-black?style=for-the-badge&logo=discord&logoColor=white&color=00FF41" alt="Discord"/>
-  </a>
-</div>
+### Receipt Reconciliation SaaS
+**Stack:** React · Node.js · PostgreSQL · OCR  
+Automates receipts → bank transaction reconciliation for SMBs (rules engine + matching + reporting).  
+**Repo:** https://github.com/abhnish/receipt-recon • **Demo:** https://recon.example
+
+*(Replace the repo/demo links above with the correct URLs if needed.)*
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhnish&style=for-the-badge&color=00FF41&labelColor=black&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Visitors-Total-black?style=for-the-badge&logo=visitor&logoColor=white&color=00FF41" alt="Total Visitors"/>
-</div>
+## 🧩 Open Source & Contributions
 
-<div align="center">
-  <p>⭐ If you find my work useful, consider giving it a star!</p>
-  <p>💝 Your support fuels my coding adventures</p>
-</div>
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=abhnish&theme=tokyonight" />
+</p>
+
+I contribute to open-source (bug fixes, features, docs) and maintain a few small developer tools. See pinned repos below for recent work.
 
 ---
 
-<div align="center">
-  <p>💫 "First, solve the problem. Then, write the code." – John Johnson</p>
-  <p>🚀 Powered by caffeine, curiosity, and cyber magic</p>
-  <p>🌙 Built during the darkest hours of the night</p>
-</div>
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> • 
+  <a href="mailto:your.email@example.com">Email</a> • 
+  <a href="https://abhnish.dev" target="_blank">Portfolio</a> • 
+  <a href="https://github.com/abhnish" target="_blank">GitHub</a>
+</p>
+
+**Open to:** SDE internships, Product collaborations, Hackathon teammates — DM on LinkedIn or email.
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> System Diagnostics
-
-```bash
-┌───[ abhnish@cyberspace ]─[ ~/diagnostics ]
-└──╼ $ cat /proc/system_info
-{
-  "current_focus": "Advanced AI/ML and quantum computing",
-  "caffeine_status": "Highly caffeinated ☕",
-  "gaming_setup": "RTX 4090 + Ultra-wide monitor",
-  "knowledge_base": "Tech blogs, research papers, and dark web forums",
-  "language_matrix": [
-    "English (Fluent)",
-    "Hindi (Native)", 
-    "JavaScript (Expert)",
-    "Python (Expert)",
-    "C++ (Intermediate)",
-    "Rust (Learning)",
-    "Binary (Basic)"
-  ],
-  "productivity_boosters": [
-    "Lo-fi hip hop beats",
-    "Dark mode everywhere",
-    "Mechanical keyboard sounds",
-    "Terminal customization"
-  ]
-}
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhnish&color=green" alt="profile views"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Created_with-❤️_by_cyber_ninja-black?style=for-the-badge&logo=heart&logoColor=white&color=00FF41" alt="Created with ❤️"/>
-  <br>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/abhnish/abhnishkumar&query=$.pushed_at&label=Last%20Hack&color=00FF41&style=flat-square&labelColor=black" alt="Last Updated"/>
-</div>
-
----
-
-<div align="center">
-  <p>🔐 This profile is encrypted with passion and dedication</p>
-  <p>⚡ Always connected to the matrix</p>
-  <p>🎯 Mission: Build the future, one line of code at a time</p>
-</div>
+<!-- Pinned repos are still shown in GitHub UI — keep your top projects pinned for quick discoverability. -->
