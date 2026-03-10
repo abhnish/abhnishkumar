@@ -132,6 +132,22 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Contribution Matrix
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions-Active-black?style=for-the-badge&logo=github&logoColor=white&color=00FF41" alt="Contributions"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="Top Languages"/>
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Open Source Warfare
 
 ```bash
