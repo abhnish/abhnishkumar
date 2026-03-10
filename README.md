@@ -120,20 +120,20 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/abhnish/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project1&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/FinGenie">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=FinGenie&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
-  <a href="https://github.com/abhnish/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project2&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/JobGenie">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=JobGenie&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/abhnish/project3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project3&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/CRM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=CRM&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
-  <a href="https://github.com/abhnish/project4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project4&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/attendance-tracker-sih">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=attendance-tracker-sih&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
 </div>
 
@@ -151,11 +151,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhnish&theme=merko&hide_border=true&border_radius=10&area=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000&color=00ff41&line=ff0000&point=ffffff" alt="GitHub Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhnish&theme=merko&no-frame=true&no-bg=true&margin-w=4&title=00ff41&text=ffffff&icon=00ff41&border=00ff41" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&theme=merko&hide_border=true&border_radius=10&layout=compact&langs_count=8&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
 </div>
 
 ---
