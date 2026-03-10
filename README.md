@@ -132,23 +132,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/cnzP4256N7HYo/giphy.gif" width="30px"> Cyber Stats & Analytics
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Stats-Real_Time_Monitoring-black?style=for-the-badge&logo=analytics&logoColor=white&color=00FF41" alt="Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnish" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Open Source Warfare
 
 ```bash
